@@ -20,7 +20,10 @@ preferred channel for [bug reports](#bugs), [features requests](#features)
 and [submitting pull requests](#pull-requests), but please respect the 
 following restrictions:
 
-* Questions should be posted on [Stack Overflow, using the 'chosen.js'](http://stackoverflow.com/questions/tagged/chosen.js) tag (related tags: [jquery-chosen](http://stackoverflow.com/questions/tagged/jquery-chosen), [prototype-chosen](http://stackoverflow.com/questions/tagged/prototype-chosen)).
+* Support issues or usage question that are not bugs should be posted on 
+[Stack Overflow, using the `chosen.js`](http://stackoverflow.com/questions/tagged/chosen.js) tag
+(related tags: [jquery-chosen](http://stackoverflow.com/questions/tagged/jquery-chosen),
+[prototype-chosen](http://stackoverflow.com/questions/tagged/prototype-chosen)).
 
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
